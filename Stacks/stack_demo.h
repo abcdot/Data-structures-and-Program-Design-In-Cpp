@@ -1,5 +1,5 @@
 const int maxstack = 10;
-typedef char Stack_entry;
+// typedef char Stack_entry;
 // typedef double Stack_entry;
 
 typedef enum Error_code

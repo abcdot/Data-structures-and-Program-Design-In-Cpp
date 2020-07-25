@@ -10,9 +10,9 @@ int main()
   double item;
 
   stack<double> numbers; // 数据结构 <元素类型> 名称
-  cout << "输入 n 个数据，反转后输出" << endl
-       << "请在下面一行输入反转数据的个数:" << endl; // 输出
-  cin >> n;                                          //输入数据的个数
+  cout << "Type in an integer n followed by n decimal numbers." << endl
+       << "The numbers will be printed in reverse order." << endl; // 输出
+  cin >> n;                                                        //输入数据的个数
 
   // 循环入栈
   for (int i = 0; i < n; i++)

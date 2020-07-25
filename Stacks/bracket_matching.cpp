@@ -1,4 +1,5 @@
 #include <iostream>
+typedef char Stack_entry;
 #include "stack_demo.h"
 
 int main()
