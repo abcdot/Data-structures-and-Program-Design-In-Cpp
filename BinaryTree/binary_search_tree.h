@@ -37,7 +37,7 @@ public:
 // {
 // }
 
-// 递归版的 search ?啥情况，怎么不兼容？ ❌
+// 递归版的 search ? 啥情况，怎么不兼容？ ❌
 // template <class Record>
 // Binary_node<Record> *Search_tree<Record>::search_for_node(Binary_node<Record> *sub_root, const Record &target) const
 // {
